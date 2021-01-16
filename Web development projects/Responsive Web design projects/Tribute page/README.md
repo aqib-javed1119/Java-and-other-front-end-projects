@@ -1,4 +1,4 @@
-<p> # Tribute Web Page </p>   
+# <p>  Tribute Web Page </p>   
 
 ##  Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 ###  • Used CSS and HTML 
