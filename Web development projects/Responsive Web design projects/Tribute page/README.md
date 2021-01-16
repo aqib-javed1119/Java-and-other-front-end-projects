@@ -2,9 +2,9 @@
 # Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 
 
-### Used CSS and HTML 
-### Link to the project = https://cdpn.io/daniyal11355/debug/jOMObbV/yYMyLaDVjEak
-### The project picture can be seen below = 
+###  • Used CSS and HTML 
+###  • Link to the project = https://cdpn.io/daniyal11355/debug/jOMObbV/yYMyLaDVjEak
+###  • The project picture can be seen below = 
 
 
 <p align = "center"> 
