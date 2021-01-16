@@ -1,4 +1,4 @@
-# <p align = "center"> Tribute Web Page </p>   
+# <p align = "center" font-size="500px"> Tribute Web Page </p>   
 
 ##  Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 ###  • Used CSS and HTML 
