@@ -1,5 +1,5 @@
 
-# Tribute Web Page 
+#                                                          Tribute Web Page 
 
 ##  Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 ###  • Used CSS and HTML 
