@@ -4,7 +4,7 @@
 
 ###  • Used CSS and HTML 
 ###  • Link to the project = https://cdpn.io/daniyal11355/debug/jOMObbV/yYMyLaDVjEak
-###  • The project picture can be seen below = 
+###  • The project layout can be seen below = 
 
 
 <p align = "center"> 
