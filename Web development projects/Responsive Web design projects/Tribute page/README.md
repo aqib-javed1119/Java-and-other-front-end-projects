@@ -3,6 +3,7 @@
 
 
 ###  • Used CSS and HTML 
+###  • Responsive Web page which can be accustomed to any screen size 
 ###  • Link to the project = https://cdpn.io/daniyal11355/debug/jOMObbV/yYMyLaDVjEak
 ###  • The project layout can be seen below = 
 
