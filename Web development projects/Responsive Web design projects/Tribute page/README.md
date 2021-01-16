@@ -1,7 +1,7 @@
 
-# Made a tribute website page displaying the information of famous bollywood actor Salman Khan
+# Tribute Web Page 
 
-
+##  Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 ###  • Used CSS and HTML 
 ###  • Responsive Web page which is accustomed to any screen size 
 ###  • Link to the project = https://cdpn.io/daniyal11355/debug/jOMObbV/yYMyLaDVjEak
