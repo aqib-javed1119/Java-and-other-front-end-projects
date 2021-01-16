@@ -1,2 +1,2 @@
-
-![Screenshot (1067)](https://user-images.githubusercontent.com/76765079/104822693-6dd0fb00-5812-11eb-8b5a-50bd247a641c.png)
+<p align = "center"> 
+<img src="https://github.com/aqib-javed1119/aqib-javed1119/blob/main/Web%20development%20projects/Responsive%20Web%20design%20projects/Tribute%20page/src/img.png " width="750" height="500" />
