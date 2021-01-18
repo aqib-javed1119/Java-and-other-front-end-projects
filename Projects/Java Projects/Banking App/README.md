@@ -6,3 +6,11 @@
 - D. View previous transaction
 - E. Calculate interest
 - F. Exit the application
+
+# <p align = "center" > Banking Application </p>   
+
+###  • The project layout can be seen below = 
+
+
+<p align = "center" >
+<img src=""width ="750" height="750" />
