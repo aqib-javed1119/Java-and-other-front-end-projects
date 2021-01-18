@@ -13,7 +13,7 @@
 ### F. Exit the application <br>
 <hr>
 
-##<p> The project was made with Java </p>
+## The project was made with Java 
 
 ### The project layout can be seen below = 
 
