@@ -12,7 +12,7 @@
 ### E. Calculate interest <br> 
 ### F. Exit the application <br>
 <hr>
-<p style=" font-weight:bold; "> The project was made with Java </p>
+<p style=" font-weight:bold; font-size: 100px;"> The project was made with Java </p>
 
 ### The project layout can be seen below = 
 
