@@ -12,7 +12,7 @@
 ### E. Calculate interest <br> 
 ### F. Exit the application <br>
 <hr>
-### The project was made with Java 
+### <p> The project was made with Java </p>
 
 ### The project layout can be seen below = 
 
