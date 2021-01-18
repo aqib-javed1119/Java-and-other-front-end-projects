@@ -6,11 +6,11 @@
 This project walks you through creating a bank account application using the Java programming language. The application greets the user and asks them which function they would like to perform. Options are: 
   
 A. Check balance  <br> 
-B. Make deposit
-C. Make withdrawal 
-D. View previous transaction
-E. Calculate interest
-F. Exit the application
+B. Make deposit <br>
+C. Make withdrawal <br>
+D. View previous transaction <br>
+E. Calculate interest <br> 
+F. Exit the application <br>
 
 ###   The project layout can be seen below = 
 
