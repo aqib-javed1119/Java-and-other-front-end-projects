@@ -1,6 +1,6 @@
 
 
-# <p align = "center" > Singer landing page </p>   
+# <p align = "center" > Singer ' Austin Richard Post ' landing page </p>   
 
 ###  • Used CSS and HTML 
 ###  • Responsive Web page which is accustomed to any screen size 
