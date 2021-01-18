@@ -13,6 +13,4 @@
 
 
 <p align = "center" >
-<img src="![Banking](https://user-images.githubusercontent.com/76765079/104879033-107c9d00-592b-11eb-865a-48f4d74abadc.gif)"width ="750" height="750" />
-
 ![Banking](https://user-images.githubusercontent.com/76765079/104879086-30ac5c00-592b-11eb-8ace-ae4e156f10e0.gif)
