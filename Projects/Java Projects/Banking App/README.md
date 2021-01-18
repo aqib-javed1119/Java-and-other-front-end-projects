@@ -13,4 +13,6 @@
 
 
 <p align = "center" >
-![Banking](https://user-images.githubusercontent.com/76765079/104879086-30ac5c00-592b-11eb-8ace-ae4e156f10e0.gif)
+
+
+![Banking](https://user-images.githubusercontent.com/76765079/104879192-5cc7dd00-592b-11eb-9857-1dfdd6db010c.gif)
