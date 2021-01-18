@@ -1,0 +1,56 @@
+<html>
+
+<head>
+
+
+
+    <title>Simple Survey form </title>
+
+    <link rel="stylesheet" type="text/css" href="Survey.css">
+
+
+</head>
+
+<body translate="no">
+    <h1 id='title'>Chocolate Survey</h1>
+    <p id="description">Enter your info below </p>
+    <form>
+
+        <label for='name' id='name-label'> Name = <label>
+                <input id='name' type='text' placeholder=' ' required>
+                <br><br>
+                <label id='number-label'>Phone Number = </label>
+                <input id='number' type='number' placeholder=' '><br><br>
+                <label for='email' id='email-label'> Email = </label>
+                <input id='email' type='email' placeholder=' ' required>
+                <br><br>
+
+
+                <p1>
+                    <p2> Choose gender from below choices = </p2> <br> <br>
+                    <input type='radio' name='Gender' value='M'>Male <br>
+                    <input type='radio' name='Gender' value='F'>Female <br>
+
+                    <br><br>
+
+                    <p5>Your Age = </p5>
+                    <select id='dropdown'>
+                        <option>10+</option>
+                        <option>100+</option>
+                    </select><br><br>
+
+                    <p3>Do you like chocolate ?</p3>
+                    <input type='checkbox' name='H' value='Yes'>Yes
+                    <input type='checkbox' name='H' value='No'>No
+                    <br><br>
+
+                    <p4> If you don't like chocolate then tell why you <br> don't like it in the text area below </p4> <br>
+                    <textarea id=' '></textarea>
+                    <br><br>
+                    <button id='submit' type='submit'>SUBMIT</button>
+
+    </form>
+
+</body>
+
+</html>
