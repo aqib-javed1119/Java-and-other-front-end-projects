@@ -11,7 +11,7 @@
 - E. Calculate interest
 - F. Exit the application
 
-###  • The project layout can be seen below = 
+###   The project layout can be seen below = 
 
 
 <p align = "center" >
