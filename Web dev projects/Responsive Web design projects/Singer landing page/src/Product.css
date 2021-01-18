@@ -1,0 +1,44 @@
+
+body{
+    font-family: Georgia, serif;
+}
+
+
+#header
+{
+align-items: center;
+position: fixed;   
+top: 0;
+}
+                                          
+            
+#info
+{
+max-width: 500px;
+margin:auto;
+
+}
+p1{
+  font-weight: bold;
+}
+
+label{
+  font-weight: bold;
+}
+
+#toptitle 
+{
+margin-top: 110px;
+}
+ 
+#email{
+  width: 250px;
+}
+
+ @media (max-width: 600px)
+{
+#header 
+{
+visibility:hidden;
+}
+}
