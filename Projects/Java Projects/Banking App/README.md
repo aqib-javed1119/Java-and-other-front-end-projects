@@ -13,7 +13,7 @@
 ### F. Exit the application <br>
 
 
-
+<hr>
 
 ### The project layout can be seen below = 
 
