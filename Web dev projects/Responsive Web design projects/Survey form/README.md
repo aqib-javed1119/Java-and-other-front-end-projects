@@ -1,5 +1,5 @@
 
-# <p align = "center" > Tribute Page </p>   
+# <p align = "center" > Survey form </p>   
 
 ##  Made a tribute website page displaying the information of famous bollywood actor Salman Khan
 ###  • Used CSS and HTML 
@@ -9,4 +9,4 @@
 
 
 <p align = "center" >
-<img src="https://github.com/aqib-javed1119/aqib-javed1119/blob/main/Web%20dev%20projects/Responsive%20Web%20design%20projects/Tribute%20page/src/img.png " width="1250" height="1250" />
+<img src="https://github.com/aqib-javed1119/aqib-javed1119/blob/main/Web%20dev%20projects/Responsive%20Web%20design%20projects/Survey%20form/src/img.png " width="1250" height="1250" />
