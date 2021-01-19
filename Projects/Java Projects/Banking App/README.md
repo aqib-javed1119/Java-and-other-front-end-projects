@@ -3,7 +3,7 @@
 # <p align = "center" > Banking Application </p>  
 
 ## The project was made with Java 
-## This project walks you through creating a bank account application using the Java programming language. The application greets the user and asks them which function they would like to perform. Options are: 
+## This project walks you through creating a bank account application . The application greets the user and asks them which function they would like to perform. Options are: 
 
 ### A. Check balance  <br> 
 ### B. Make deposit <br>
