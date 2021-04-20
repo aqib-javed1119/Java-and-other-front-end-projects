@@ -9,7 +9,7 @@
 
 
 <p align = "center" >
-<img src="https://github.com/aqib-javed1119/Some-projects-here/blob/main/Projects/Web%20dev%20projects/Responsive%20Web%20design%20projects/Singer%20landing%20page/src/Singer.png"width="750" height="750" />
+<img src="https://github.com/aqib-javed1119/Some-projects-here/blob/main/Projects/Web%20dev%20projects/Responsive%20Web%20design%20projects/Singer%20landing%20page/Singer.gif"width="750" height="750" />
 
 
 
