@@ -8,4 +8,4 @@
 
 
 <p align = "center" >
-<img src="https://github.com/aqib-javed1119/Some-projects-here/blob/main/Projects/Web%20dev%20projects/Responsive%20Web%20design%20projects/Survey%20form/src/Survey.png " width="1250" height="1000" />
+<img src="https://github.com/aqib-javed1119/Some-projects-here/blob/main/Projects/Web%20dev%20projects/Responsive%20Web%20design%20projects/Survey%20form/Chocolate%20survey.gif" width="1250" height="1000" />
