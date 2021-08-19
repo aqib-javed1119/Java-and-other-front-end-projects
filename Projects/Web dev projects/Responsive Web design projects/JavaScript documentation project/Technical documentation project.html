@@ -1,0 +1,192 @@
+<html>
+
+<head>
+	<title> JavaScript documentation project </title>
+</head>
+
+<body>
+	<nav id="navbar">
+		<header class="Title"> JavaScript
+			<br> Documentation </header>
+		<br>
+		<ul>
+			<li><a class="nav-link" href="#Scope"> Scope </a></li>
+			<br>
+			<li><a class="nav-link" href="#Functions"> Functions </a></li>
+			<br>
+			<li><a class="nav-link" href="#Arrays"> Arrays   </a> </li>
+			<br>
+			<li> <a class="nav-link" href="#Class"> Class </a> </li>
+			<br>
+			<li> <a class="nav-link" href="#JavaScript_Object_Methods"> JavaScript Object Methods </a> </li>
+			<br>
+			<li> <a class="nav-link" href="#Reference"> Reference</a> </li>
+			<br> </ul>
+	</nav>
+	<main id="main-doc">
+		<section class="main-section " id="Scope">
+			<header class="header" href="#Scope"> Scope </header>
+			<h1> Scope </h1>
+			<p> Scope is a concept that refers to where values and functions can be accessed. </p>
+			<p> Various scopes include: Global scope (a value/function in the global scope can be used anywhere in the entire program) File or module scope (the value/function can only be accessed from within the file) Function scope (only visible within the function), Code block scope (only visible within a { ... } codeblock) </p>
+			<p> Example of code below = </p> <code>  function myFunction() {
+      var pizzaName = "Volvo";
+      // Code here can use pizzaName
+      }
+      // Code here can't use pizzaName</code>
+			<br>
+			<ul>
+				<li> </li>
+			</ul>
+			</article>
+		</section>
+		<section class="main-section " id="Functions">
+			<header class="header" href="#Functions"> Functions</header>
+			<h1> Functions </h1>
+			<p> Functions are one of the fundamental building blocks in JavaScript. A function is a reusable set of statements to perform a task or calculate a value. Functions can be passed one or more values and can return a value at the end of their execution. In order to use a function, you must define it somewhere in the scope where you wish to call it. </p>
+			<p> The example code below contains a function that takes in 2 values and returns the sum of those numbers. </p> <code> // Defining the function:
+      function sum(num1, num2) {
+      return num1 + num2;
+      }
+      // Calling the function:
+      sum(3, 6); // 9</code>
+			<br>
+			<li> </li>
+		</section>
+		<section class="main-section" id="Arrays">
+			<header class="header" href="#Arrays"> Arrays </header>
+			<h1> Arrays </h1>
+			<p> Arrays are lists of ordered, stored data. They can hold items that are of any data type. </p>
+			<p> Arrays are created by using square brackets, with individual elements separated by commas.</p> <code> // An array containing numbers
+      const numberArray = [0, 1, 2, 3];
+      // An array containing different data types
+      const mixedArray = [1, 'chicken', false];</code>
+			<br>
+			<li> </li>
+		</section>
+		<section class="main-section " id="Class">
+			<header class="header" href="#Class"> Class </header>
+			<h1> Class </h1>
+			<p> JavaScript supports the concept of classes as a syntax for creating objects. Classes specify the shared properties and methods that objects produced from the class will have. When an object is created based on the class, the new object is referred to as an instance of the class. New instances are created using the new keyword. </p>
+			<p> The code sample shows a class that represents a Song. A new object called mySong is created underneath and the .play() method on the class is called. The result would be the text Song playing! printed in the console</p> <code> 
+      class Song {
+      constructor() {
+      this.title;
+      this.author;
+      }
+      play() {
+      console.log('Song playing!');
+      }
+      }
+      const mySong = new Song();
+      mySong.play();</code>
+			<br>
+			<li> </li>
+		</section>
+		<section class="main-section " id="JavaScript_Object_Methods">
+			<header class="header" href="#JavaScript_Object_Methods"> JavaScript Object Methods </header>
+			<h1 id="bold"> JavaScript Object Methods </h1>
+			<p> JavaScript objects may have property values that are functions. These are referred to as object methods.</p>
+			<p> Methods may be defined using anonymous arrow function expressions, or with shorthand method syntax. Object methods are invoked with the syntax: objectName.methodName(arguments) </p> <code> 
+      const engine = {
+      // method shorthand, with one argument
+      start(adverb) {
+      console.log(`The engine starts up ${adverb}...`);
+      },  
+      // anonymous arrow function expression with no arguments
+      sputter: () => {
+      console.log('The engine sputters...');
+      },
+      };
+      engine.start('noisily');
+      engine.sputter();
+      /* Console output:
+      The engine starts up noisily...
+      The engine sputters...
+      */</code>
+			<br>
+			<li> </li>
+		</section>
+		<section class="main-section" id="Reference">
+			<header class="Reference" href="#Reference"> Reference </header>
+			<ul>
+				<li> All the documentation in this page is taken from <a href="https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet" target="_blank"> Code Cademy </a
+               >
+         </li>
+         <br> <br> <br>
+      </ul>
+      </article>
+   </section>
+</main>
+</body>
+
+<style> 
+nav{
+
+  background-color: #CED8F6 ; 
+  
+}
+
+.main-section{
+  
+  margin: 100px 0px 0px 300px;
+  background-color: #D5F5E3 ; 
+  
+}
+
+.Title{
+  font-size : 1.8em;
+}
+
+.header { 
+  display: none;
+}
+
+#navbar{
+  position : fixed;
+  text-align : left;
+  margin : 0px 200px 0px 0px;
+   
+}
+code {
+  display: block;
+  text-align: left;
+  white-space: pre-line;
+  position: relative;
+  line-height: 3;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px ;
+  border-radius: 5px;
+}
+
+
+
+
+
+.nav-link{
+  text-decoration: none;
+  color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+ li {
+  list-style-type: none;
+ }
+
+h1 {
+   text-align: center;
+   font-size: 1.8em; 
+}
+
+
+
+</style>
+
+
+</html>
