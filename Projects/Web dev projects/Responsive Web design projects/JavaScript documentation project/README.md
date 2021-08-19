@@ -7,4 +7,4 @@
 
 
 <p align = "center" >
-<img src=".gif" width="1250" height="1000" />
+<img src="https://github.com/aqib-javed1119/Projects/blob/main/Projects/Web%20dev%20projects/Responsive%20Web%20design%20projects/JavaScript%20documentation%20project/Video.gif" width="1250" height="1000" />
