@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on making personal projects on web development & AI. 
+- 🔭 I’m currently working on making personal projects on web, software & AI development.
 - 💻 Some of my projects can be found here in this collection = https://codepen.io/collection/AQoJYG
-- 👯 I’m looking to collaborate on mobile, web application & AI development
+- 👯 I’m looking to collaborate on web, software & AI development.
 - 📫 How to reach me: https://www.linkedin.com/in/ajaved3999/
-- 😄 Pronouns: He / His
+- 😄 Pronouns: He / Him
 
